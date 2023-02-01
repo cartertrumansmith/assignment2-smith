@@ -8,3 +8,8 @@ Kansas City Chiefs:
 1. Patrick Mahomes
 2. Travis Kelce
 3. Chris Jones
+
+Other great teams to watch:
+* Philadelphia Eagles
+* Buffalo Bills
+* San Francisco 49ers
