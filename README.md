@@ -15,3 +15,13 @@ Other great teams to watch:
 * San Francisco 49ers
 
 [About Me](AboutMe.md)
+***
+## Countries to Visit
+These are some great countries to visit, listed are the countries, the top reasons to visit and how long you should stay.
+| Country | Reason to Visit | Days to Stay |
+| --- | --- | --- |
+| Italy | History/Cuisine | 15 |
+| Bahamas | Nature/Beaches | 7 |
+| Japan | Culture/Cuisine | 12 |
+| France | Architecture/Cuisine | 10 |
+
