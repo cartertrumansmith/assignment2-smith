@@ -32,3 +32,14 @@ These are some great countries to visit, listed are the countries, the top reaso
 
 > "Pair up in threes"
 > *-Yogi Berra*
+***
+## Code Fencing
+```
+Redirect 301 /oldpage.html http://www.yoursite.com/newpage.html
+Redirect 301 /oldpage2.html http://www.yoursite.com/folder/
+```
+[Snippet Source](https://css-tricks.com/snippets/htaccess/301-redirects/#aa-redirect-a-single-page)
+> How to properly make 301 redirect?
+> I have over 50 html pages that I'm going to move to different folders in the same domain.
+> How to properly make 301 redirects for each one?
+[Stack Overflow](https://stackoverflow.com/questions/48886601/how-to-properly-make-301-redirect)
