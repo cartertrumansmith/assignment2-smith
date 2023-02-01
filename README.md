@@ -24,4 +24,11 @@ These are some great countries to visit, listed are the countries, the top reaso
 | Bahamas | Nature/Beaches | 7 |
 | Japan | Culture/Cuisine | 12 |
 | France | Architecture/Cuisine | 10 |
+***
+## Quotes
+> "I mean, nobody wants to admit they ate nine cans of ravioli, but I did. I'm ashamed of myself. The first can doesn't count, then you get to the second and third, fourth and fifth I think I burnt with the blowtorch, and then I just kept eatin'."
+> *-Ricky LaFleur*
+ 
 
+> "Pair up in threes"
+> *-Yogi Berra*
